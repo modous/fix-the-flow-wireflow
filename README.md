@@ -14,9 +14,9 @@ Als student wil ik bij een OBA vestiging kunnen reserveren zodat ik kan plannen 
 
 
 ## Wireflow
-<!-- Toon de wireflow -->
 
- 
+ ![20221205_122046](https://user-images.githubusercontent.com/34092733/205625485-1aed54bb-3e50-4397-ac9f-6f7aff3994e1.jpg)
+
 
 ## Licentie
 
