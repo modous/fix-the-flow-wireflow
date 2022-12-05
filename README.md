@@ -10,7 +10,7 @@ De gebruiker is iemand die een studieplek wilt reserveren in de OBA of die nieuw
 
 
 ## User Story
-Als student wil ik thuis kunnen zien of er nog studieplekken beschikbaar zijn (ook plekken voor m'n laptop) zodat ik kan plannen wanneer ik bij de OBA ga studeren
+Als student wil ik bij een OBA vestiging kunnen reserveren zodat ik kan plannen wanneer ik bij de OBA ga studeren.
 
 
 ## Wireflow
