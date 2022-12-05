@@ -1,13 +1,17 @@
 > _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 # Titel
-<!-- Geef je opdracht een titel en schrijf in één zin wat het is -->
+Fix the flow opdracht. Maak een wireflow van de user story van je opdrachtgever.
+
 
 ## Gebruiker
-<!-- Het is duidelijk wie de gebruiker is -->
+De gebruiker is iemand die een studieplek wilt reserveren in de OBA of die nieuwschierig is naar de beschikbare studeerplekken binnen een bepaalde OBA vestiging.
+
+
 
 ## User Story
-<!-- Er is een User Story geschreven van de interactie -->
+Als student wil ik thuis kunnen zien of er nog studieplekken beschikbaar zijn (ook plekken voor m'n laptop) zodat ik kan plannen wanneer ik bij de OBA ga studeren
+
 
 ## Wireflow
 <!-- Toon de wireflow -->
